@@ -1,0 +1,20 @@
+html {
+	color:white;
+	background-image: url("../images/background.jpg");
+}
+
+#canvas {
+	background-color: white;
+	border: solid 15px black;
+}
+
+#restart {
+	background-color: transparent;
+    border: dashed white 4px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
